@@ -13,3 +13,5 @@ All asset information comes from the API
 Perform the part of the iterations that can be as helpful as possible
 *I was unable to take a picture that the user puts in detail about the property he is putting up for sale
 ## Wareframe & Design
+
+https://miro.com/app/board/uXjVOnja8os=/ 
