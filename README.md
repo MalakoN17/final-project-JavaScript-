@@ -12,6 +12,11 @@ All asset information comes from the API
 * Take the information that the user enters on the site and save it
 Perform the part of the iterations that can be as helpful as possible
 *I was unable to take a picture that the user puts in details about the property he is putting up for sale
+### Technologies implemented in the project 
+* Html 
+* scss 
+* bootstrap 
+* Javascript 
 ## Wareframe & Design
 ### main page 📄 
 ##### main page 📄 navbar and header 
